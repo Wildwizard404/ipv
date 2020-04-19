@@ -1,3 +1,4 @@
+使用Python3实现，python2请自力更生。
 下载文件，执行pip install -r requirements.txt安装依赖。   
 使用腾讯云的api为本机ipv6地址做ddns。    
 域名需要在腾讯云解析。   
